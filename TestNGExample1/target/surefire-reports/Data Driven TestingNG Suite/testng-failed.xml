@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Data Driven TestingNG Suite]">
+  <test name="Functional Testing(failed)">
+    <classes>
+      <class name="demo.playground.DataUsingExcelTC">
+        <methods>
+          <include name="cleanup"/>
+          <include name="sub"/>
+          <include name="add"/>
+          <include name="div"/>
+          <include name="mult"/>
+          <include name="before"/>
+          <include name="setup"/>
+          <include name="after"/>
+        </methods>
+      </class> <!-- demo.playground.DataUsingExcelTC -->
+    </classes>
+  </test> <!-- Functional Testing(failed) -->
+</suite> <!-- Failed suite [Data Driven TestingNG Suite] -->

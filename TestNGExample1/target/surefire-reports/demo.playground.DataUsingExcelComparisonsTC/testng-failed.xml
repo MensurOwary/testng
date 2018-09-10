@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [demo.playground.DataUsingExcelComparisonsTC]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="demo.playground.DataUsingExcelComparisonsTC">
+        <methods>
+          <include name="setup"/>
+          <include name="after"/>
+          <include name="cleanup"/>
+          <include name="add"/>
+          <include name="sub"/>
+          <include name="mult"/>
+          <include name="before"/>
+          <include name="div"/>
+        </methods>
+      </class> <!-- demo.playground.DataUsingExcelComparisonsTC -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [demo.playground.DataUsingExcelComparisonsTC] -->

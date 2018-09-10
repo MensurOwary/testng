@@ -1,0 +1,44 @@
+-------------------------------------------------------------------------------
+Test set: demo.playground.DataUsingExcelTC
+-------------------------------------------------------------------------------
+Tests run: 20, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 1.421 sec <<< FAILURE!
+div(demo.playground.DataUsingExcelTC)  Time elapsed: 0.004 sec  <<< FAILURE!
+java.lang.AssertionError: expected [1.5] but found [-1]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:179)
+	at demo.playground.DataUsingExcelTC.div(DataUsingExcelTC.java:85)
+div(demo.playground.DataUsingExcelTC)  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.AssertionError: expected [0.2] but found [-1]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:179)
+	at demo.playground.DataUsingExcelTC.div(DataUsingExcelTC.java:85)
+div(demo.playground.DataUsingExcelTC)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.AssertionError: expected [9.672276350752879E-5] but found [-1]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:179)
+	at demo.playground.DataUsingExcelTC.div(DataUsingExcelTC.java:85)
+div(demo.playground.DataUsingExcelTC)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.AssertionError: expected [1.8333333333333333] but found [-1]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:179)
+	at demo.playground.DataUsingExcelTC.div(DataUsingExcelTC.java:85)
+div(demo.playground.DataUsingExcelTC)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.AssertionError: expected [2400000.0] but found [-1]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:179)
+	at demo.playground.DataUsingExcelTC.div(DataUsingExcelTC.java:85)

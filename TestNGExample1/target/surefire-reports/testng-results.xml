@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="24" passed="24">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Data Driven TestingNG Suite" duration-ms="883" started-at="2018-07-16T06:54:50Z" finished-at="2018-07-16T06:54:51Z">
+    <groups>
+    </groups>
+    <test name="Functional Testing" duration-ms="883" started-at="2018-07-16T06:54:50Z" finished-at="2018-07-16T06:54:51Z">
+      <class name="demo.playground.DataUsingExcelTC">
+        <test-method status="PASS" signature="setup()[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="setup" is-config="true" duration-ms="72" started-at="2018-07-16T10:54:50Z" finished-at="2018-07-16T10:54:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="before()[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="before" is-config="true" duration-ms="1" started-at="2018-07-16T10:54:50Z" finished-at="2018-07-16T10:54:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="add(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="add" duration-ms="21" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="add(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="add" duration-ms="0" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="add(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="add" duration-ms="0" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0.546]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5645.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="add(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="add" duration-ms="0" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[121.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[66.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="add(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="add" duration-ms="1" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5.0E-6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="add(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="add" duration-ms="0" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[32.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[100000.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="div(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="div" duration-ms="1" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0.546]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5645.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="div(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="div" duration-ms="0" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="div(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="div" duration-ms="0" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="div(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="div" duration-ms="0" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[121.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[66.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="div(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="div" duration-ms="0" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5.0E-6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="div(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="div" duration-ms="1" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[32.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[100000.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mult(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="mult" duration-ms="1" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mult -->
+        <test-method status="PASS" signature="mult(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="mult" duration-ms="1" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mult -->
+        <test-method status="PASS" signature="mult(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="mult" duration-ms="0" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0.546]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5645.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mult -->
+        <test-method status="PASS" signature="mult(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="mult" duration-ms="1" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[121.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[66.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mult -->
+        <test-method status="PASS" signature="mult(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="mult" duration-ms="0" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[32.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[100000.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mult -->
+        <test-method status="PASS" signature="mult(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="mult" duration-ms="0" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5.0E-6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mult -->
+        <test-method status="PASS" signature="sub(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="sub" duration-ms="1" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="sub(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="sub" duration-ms="0" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="sub(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="sub" duration-ms="0" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0.546]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5645.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="sub(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="sub" duration-ms="0" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[121.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[66.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="sub(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="sub" duration-ms="0" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5.0E-6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="sub(double, double)[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="sub" duration-ms="0" started-at="2018-07-16T10:54:51Z" data-provider="dataProvider" finished-at="2018-07-16T10:54:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[32.0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[100000.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="after()[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="after" is-config="true" duration-ms="0" started-at="2018-07-16T10:54:51Z" finished-at="2018-07-16T10:54:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:demo.playground.DataUsingExcelTC@43a25848]" name="cleanup" is-config="true" duration-ms="1" started-at="2018-07-16T10:54:51Z" finished-at="2018-07-16T10:54:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- demo.playground.DataUsingExcelTC -->
+    </test> <!-- Functional Testing -->
+  </suite> <!-- Data Driven TestingNG Suite -->
+</testng-results>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [demo.test.DataUsingJavaArrayTC]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="demo.test.DataUsingJavaArrayTC">
+        <methods>
+          <include name="setup"/>
+          <include name="after"/>
+          <include name="sub" invocation-numbers="0 1"/>
+          <include name="mult" invocation-numbers="0 1"/>
+          <include name="add" invocation-numbers="0 1"/>
+          <include name="div" invocation-numbers="0 1"/>
+          <include name="cleanup"/>
+          <include name="before"/>
+        </methods>
+      </class> <!-- demo.test.DataUsingJavaArrayTC -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [demo.test.DataUsingJavaArrayTC] -->

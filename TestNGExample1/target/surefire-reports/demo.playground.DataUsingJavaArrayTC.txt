@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: demo.playground.DataUsingJavaArrayTC
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.662 sec <<< FAILURE!
+div(demo.playground.DataUsingJavaArrayTC)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.ArithmeticException
+	at com.testingng.Calculator.calculate(Calculator.java:21)
+	at demo.playground.DataUsingJavaArrayTC.div(DataUsingJavaArrayTC.java:68)
